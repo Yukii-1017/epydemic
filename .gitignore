@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # C extensions
-*.so
+# *.so
 
 # Distribution / packaging
 .Python
@@ -113,3 +113,10 @@ TAGS
 
 # Sphinx build docs
 doc/_build/
+
+# MISC_cython
+.idea/
+.github/
+.readthedocs.yaml
+.DS_Store
+epydemic/.DS_Store
